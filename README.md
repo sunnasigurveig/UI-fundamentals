@@ -3,7 +3,7 @@
 
 
 
-<h3>Whitespace
+<h3>Whitespace</h3>
   For the viewer to be able to "breathe" while on the website I made sure to have enough whitespace around all the elements.
   With whitespace, the more the better the design will be.
 
