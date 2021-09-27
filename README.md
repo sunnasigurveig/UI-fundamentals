@@ -5,16 +5,16 @@
 
 <h3>Whitespace</h3>
 
-Alignment
+<h3>Alignment
 
-Contrast
+<h3>Contrast
 
-Color
+<h3>Color
 
-Scale
+<h3>Scale
 
-Proximity
+<h3>Proximity
 
-Typography
+<h3>Typography
 
-Visual Hierarchy
+<h3>Visual Hierarchy
