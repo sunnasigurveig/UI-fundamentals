@@ -1,8 +1,12 @@
 # UI-fundamentals
 
+<h5>
 I decided to design a portfolio for a designer.
 I made it simple and just wanted to design something not to complicated so that I could showcase each concept easily.
 When designing a portfolio for a designer, it is important that the overall website feels trustworthy, creative and playful, because future clients will be thinking about that. It should look professional and be easy on the eyes. And you want the visitor to spend as much time on your website as you can.
+</h5>
+
+Figma link: https://www.figma.com/file/fhZXyxm5mgeTgp5uBIDKls/UI-Fundamentals?node-id=0%3A1
 
 
 <h3>Whitespace</h3>
